@@ -4,7 +4,7 @@ In this repo, I'll upload all the tasks that I could done during the Python Prog
 
 ✅ Task-1 ( Calculator )
 
-🔲 Task-2
+✅ Task-2 ( Password Generator )
 
 🔲 Task-3 
 
