@@ -6,7 +6,7 @@ In this repo, I'll upload all the tasks that I could done during the Python Prog
 
 ✅ Task-2 ( Password Generator )
 
-🔲 Task-3 
+✅ Task-3 ( Rock-Paper-Scissors Game ) 
 
 ### Tech Stack
 - Python
